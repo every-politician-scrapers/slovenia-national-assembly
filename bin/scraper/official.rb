@@ -9,7 +9,10 @@ class Legislature
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
-      noko.css('a').text
+      MemberList::Member::Name.new(
+        full: noko.css('a').text,
+        prefixes: %w[mag dr],
+      ).short
     end
   end
 
