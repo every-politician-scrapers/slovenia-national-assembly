@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Slovenia",
+      "id": "Q215"
+    },
+    "legislature": {
+      "id": "Q1568676",
+      "member": "Q21296001",
+      "term": {
+        "id": "Q54833992",
+        "start": "2018-07-03"
+      }
+    },
+    "source": {
+        "url":   "https://www.dz-rs.si/wps/portal/newEn/Home/Deputies/Deputies/",
+        "title": "Deputies of the National Assembly",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/slovenia-national-assembly"
+}
