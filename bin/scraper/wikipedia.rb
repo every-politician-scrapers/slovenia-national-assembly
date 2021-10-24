@@ -38,7 +38,7 @@ end
 
 class Member < Scraped::HTML
   field :item do
-    name_link.attr('wikidata') rescue binding.pry
+    name_link.attr('wikidata')
   end
 
   field :name do
