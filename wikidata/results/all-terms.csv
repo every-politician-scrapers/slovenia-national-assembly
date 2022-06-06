@@ -1,10 +1,10 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-1,Q19931583,1st National Assembly,1992-12-23,11,,,1996-11-28,11,,,,,Q12782712,2nd National Assembly,,,Q12782712,2nd National Assembly
-2,Q12782712,2nd National Assembly,1996-11-28,11,,,2000-10-27,11,,,Q19931583,1st National Assembly,Q12782930,3rd National Assembly,Q19931583,1st National Assembly,Q12782930,3rd National Assembly
-3,Q12782930,3rd National Assembly,2000-10-27,11,,,2004-10-22,11,,,Q12782712,2nd National Assembly,,,Q12782712,2nd National Assembly,Q12783096,4th National Assembly
-4,Q12783096,4th National Assembly,2004-10-22,11,,,2008-10-15,11,,,Q12782930,3rd National Assembly,,,Q12782930,3rd National Assembly,Q12783268,5th National Assembly
-5,Q12783268,5th National Assembly,2011-10-21,11,,,2011-12-21,11,,,Q12783096,4th National Assembly,Q12783433,6th National Assembly,Q12783096,4th National Assembly,Q12783433,6th National Assembly
-6,Q12783433,6th National Assembly,2011-12-21,11,,,2014-08-01,11,,,Q12783268,5th National Assembly,Q19932345,7th National Assembly,Q12783268,5th National Assembly,Q19932345,7th National Assembly
-7,Q19932345,7th National Assembly,2014-08-01,11,,,2018-04-15,11,,,Q12783433,6th National Assembly,Q54833992,8th National Assembly,,,,
-8,Q54833992,8th National Assembly,2018-06-03,11,,,,,,,Q19932345,7th National Assembly,Q111781301,9th National Assembly,,,,
-9,Q111781301,9th National Assembly,,,,,,,,,Q54833992,8th National Assembly,,,,,,
+1,Q19931583,1st National Assembly,,,1992-12-23,11,,,1996-11-28,11,,,Q12782712,2nd National Assembly,,,,
+2,Q12782712,2nd National Assembly,,,1996-11-28,11,,,2000-10-27,11,Q19931583,1st National Assembly,Q12782930,3rd National Assembly,,,,
+3,Q12782930,3rd National Assembly,,,2000-10-27,11,,,2004-10-22,11,Q12782712,2nd National Assembly,Q12783096,4th National Assembly,,,,
+4,Q12783096,4th National Assembly,,,2004-10-22,11,,,2008-10-15,11,Q12782930,3rd National Assembly,Q12783268,5th National Assembly,,,,
+5,Q12783268,5th National Assembly,,,2008-10-15,11,,,2011-12-21,11,Q12783096,4th National Assembly,Q12783433,6th National Assembly,,,,
+6,Q12783433,6th National Assembly,2011-12-21,11,2011-12-21,11,,,2014-08-01,11,Q12783268,5th National Assembly,Q19932345,7th National Assembly,,,,
+7,Q19932345,7th National Assembly,,,2014-08-01,11,,,2018-06-22,11,Q12783433,6th National Assembly,Q54833992,8th National Assembly,,,,
+8,Q54833992,8th National Assembly,,,2018-06-22,11,,,2022-05-13,11,Q19932345,7th National Assembly,Q111781301,9th National Assembly,,,,
+9,Q111781301,9th National Assembly,,,2022-05-13,11,,,,,Q54833992,8th National Assembly,,,,,,
